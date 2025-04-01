@@ -1,2 +1,1 @@
-# Cybersecurity Netzwerk
-Try HackMe Netzwerk Notitzen
+#TryHackMe Netzwerk Notitzen
