@@ -1,2 +1,2 @@
 # Cybersecurity Netzwerk
- Pre Security (Try HackMe) Netzwerk Notitzen
+Try HackMe Netzwerk Notitzen
