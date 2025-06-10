@@ -99,6 +99,8 @@ Der **Gegenpol** zur CIA-Triad – definiert sicherheitsrelevante **Verletzungen
 
 ---
 
+
+
 # 🚨 Incident Response – Grundlagen & Ablaufplan
 
 ## 🧭 1. Was ist Incident Response?
@@ -164,7 +166,7 @@ Der **Gegenpol** zur CIA-Triad – definiert sicherheitsrelevante **Verletzungen
 
 ## 🛡️ 5. Incident Response Team (IRT/CSIRT/SOC)
 
-| Rolle                  | Aufgabe                             |
+| Rolle                  | Aufgabe                              |
 |------------------------|--------------------------------------|
 | **Incident Handler**   | Koordination & Kommunikation         |
 | **Forensiker**         | Spurensicherung & Analyse            |
@@ -200,6 +202,8 @@ Der **Gegenpol** zur CIA-Triad – definiert sicherheitsrelevante **Verletzungen
 - **Regelmäßige IR-Übungen (Tabletops / Red Team)**
 
 ---
+
+
 
 # 📜 Logging in der IT-Sicherheit – Grundlagen & Best Practices
 
@@ -303,3 +307,4 @@ Beispiele:
 - **BSI Grundschutz**: Logging & Monitoring sind obligatorisch
 
 ---
+
