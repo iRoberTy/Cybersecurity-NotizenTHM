@@ -41,5 +41,10 @@ Dieses Repository ist Teil meines praxisorientierten Lernprojekts.
 ### ℹ️ Hinweis
 
 Teile dieses Repositories wurden mit Unterstützung von GPT-4 (ChatGPT, OpenAI) erstellt und anschließend manuell geprüft, überarbeitet und erweitert.
+<<<<<<< HEAD
 
+=======
+# Cybersecurity Netzwerk
+ Pre Security (Try HackMe) Netzwerk Notitzen, Cysec 101 Notizen TBA
+>>>>>>> 5c2693b22b4d54804cfc470c64eebcad8a3455dc
 >>>>>>> Stashed changes
