@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-#TryHackMe Netzwerk Notitzen
+#TryHackMe Notizen
 =======
 # 🌐 Netzwerk-Grundlagen für Cybersecurity
 
@@ -12,20 +12,28 @@ Dieses Repo enthält:
 - 🔐 Fokus auf praktische Relevanz für Pentesting
 
 ---
+### 🔰 Pre-Security (Abgeschlossen ✅)
+Einsteigerfreundliche Einführung in Netzwerke, Betriebssysteme und Web-Technologien.
+ _________________________________________________________________________________________________________
+| Thema                | Datei                                                                            |
+|----------------------|----------------------------------------------------------------------------------|
+| Netzwerk-Grundlagen  | [`netzwerk-zusammenfassung.md`](./zusammenfassungen/netzwerk-zusammenfassung.md) |
+| Ports & Protokolle   | [`ports-und-protokolle.md`](./tabellen/ports-und-protokolle.md)                  |
+| Windows&Linux Cheats | [`Windows&Linux-cheatsheet.md`](./zusammenfassungen/windows&linux-cheatsheet.md) |
+| Grundlagen & Konzepte| [`foundations.md`](./zusammenfassungen/foundations.md)                           |
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+### 🧠 Cybersecurity 101 (Abgeschlossen ✅)
+Erste Security-Konzepte mit Fokus auf Authentifizierung, Verschlüsselung und Angriffsszenarien.
 
-## 📂 Inhalte
+| Traffic Sniff | [`tcpdump-cheatsheet.md`](./zusammenfassungen/tcpdump-cheatsheet.md)             |
+| Hashing & Cracking | [`hashcat-john-cheatsheet.md`](./zusammenfassungen/hashcat-john-cheatsheet.md)   |
 
-### ✅ [Netzwerk-Zusammenfassung](./zusammenfassungen/netzwerk-zusammenfassung.md)
-Grundlegende Begriffe, OSI-Modell, Protokolle, Tools und Konzepte
-
-### ✅ [Ports & Protokolle](./tabellen/ports-und-protokolle.md)
-Schnellübersicht mit Fokus auf häufig genutzte Dienste und Exploitpotenzial
-
----
 
 ## 👨‍💻 Autor
 
-Informatikstudent mit Fokus auf Cybersecurity  
+Ich bin Informatikstudent mit Schwerpunkt Cybersecurity und Spezialisierung auf Offensive Security / Red Teaming.  
+Dieses Repository wächst mit meinen Lernfortschritten und wird kontinuierlich erweitert und überarbeitet.
 Dieses Repository ist Teil meines praxisorientierten Lernprojekts.
 
 ---
@@ -33,6 +41,5 @@ Dieses Repository ist Teil meines praxisorientierten Lernprojekts.
 ### ℹ️ Hinweis
 
 Teile dieses Repositories wurden mit Unterstützung von GPT-4 (ChatGPT, OpenAI) erstellt und anschließend manuell geprüft, überarbeitet und erweitert.
-# Cybersecurity Netzwerk
- Pre Security (Try HackMe) Netzwerk Notitzen (AI-generated)
+
 >>>>>>> Stashed changes
