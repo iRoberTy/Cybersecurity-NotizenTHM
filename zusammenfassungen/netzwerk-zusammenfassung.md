@@ -21,7 +21,7 @@ Ziel: Ressourcen teilen, Kommunikation ermöglichen, Dienste nutzen.
 |   DHCP    |	   Dynamische IP-Vergabe im Netz        |
 |    NAT    |Mehr Geräte teilen sich eine öffentliche IP|
 |   VLAN    |Virtuelle Netzwerksegmentierung auf Layer 2|
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 ---
 
 ## 3. OSI-Modell (7 Schichten)
@@ -35,7 +35,7 @@ Ziel: Ressourcen teilen, Kommunikation ermöglichen, Dienste nutzen.
 |       3 | Netzwerk       | Routing & IP-Adressierung          | IP, ICMP            |
 |       2 | Sicherung      | MAC-Adressen, Fehlererkennung      | Ethernet, ARP       |
 |       1 | Bitübertragung | Rohdatenübertragung                | Kabel, WLAN, Hubs   |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 ---
 
@@ -47,7 +47,7 @@ Ziel: Ressourcen teilen, Kommunikation ermöglichen, Dienste nutzen.
 | Zuverlässigkeit | Bestätigt Empfang, Reihenfolge | Keine Garantie              |
 | Geschwindigkeit | Langsamer (Overhead)           | Schneller (leichtgewichtig) |
 | Anwendungen     | HTTP, SSH, FTP, SMTP           | DNS, VoIP, NTP, TFTP        |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 ---
 

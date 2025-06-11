@@ -7,20 +7,30 @@ tcpdump ist ein CLI-Tool zum Live-Mitschnitt oder zur Analyse von Netzwerkverkeh
 ## 🔧 Grundlagen
 
 tcpdump -i eth0              # Pakete auf Interface eth0 beobachten
+
 tcpdump -n                   # Keine DNS-Namen auflösen (nur IPs)
+
 tcpdump -nn                  # Auch keine Portnamen auflösen (nur Nummern)
+
 tcpdump -c 100               # Nach 100 Paketen stoppen
+
 tcpdump -w traffic.pcap      # Mitschnitt speichern (für Wireshark)
+
 tcpdump -r traffic.pcap      # Mitschnitt analysieren
+
 
 # Filterbeispiele
 
 tcpdump host 192.168.1.10             # Ein Host (egal ob Quelle oder Ziel)
+
 tcpdump src host 10.0.0.1             # Nur Pakete VON 10.0.0.1
+
 tcpdump dst host 10.0.0.1             # Nur Pakete AN 10.0.0.1
 
 tcpdump port 80                       # Pakete über Port 80
+
 tcpdump tcp port 443                  # Nur TCP über Port 443
+
 tcpdump udp                           # Nur UDP-Pakete
 
 tcpdump src net 192.168.0.0/24        # Quelle aus ganzem Subnetz
@@ -30,14 +40,20 @@ tcpdump '(src net 10.0.0.0/24) and (dst port 80 or 443)'
 
 # Protokollanalyse
 tcpdump tcp                             # Nur TCP
+
 tcpdump udp                             # Nur UDP
+
 tcpdump icmp                            # Nur ICMP (Ping etc.)
+
 tcpdump arp                             # ARP-Traffic sichtbar machen
+
 tcpdump ether                           # Ethernet-Header anzeigen
+
 tcpdump -e                              # Zeigt auch MAC-Adressen
 
 
 💡 -s 0 bedeutet: Max. Snaplen = vollständiger Paketinhalt
+
 tcpdump -A -s 0 -i eth0 port 80
 # ASCII-Inhalte auf HTTP-Port anzeigen (z. B. Passwörter)
 
