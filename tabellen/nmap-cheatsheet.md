@@ -66,7 +66,7 @@ Ziel: IP, IP-Range (z.B. 192.168.1.0/24), Domain, Datei mit Zielen (-iL targets.
 | `--script-args`     | Parameter für Scripts                             |
 | `--script-trace`    | Zeigt Debug-Ausgaben von Scripts                  |
 | `--script-updatedb` | NSE Datenbank aktualisieren                       |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 # 1. Schneller TCP SYN Scan der häufigsten 1000 Ports
 nmap -sS -T4 10.10.10.1

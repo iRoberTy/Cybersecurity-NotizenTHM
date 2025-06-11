@@ -64,7 +64,7 @@ Ziel: Ressourcen teilen, Kommunikation ermöglichen, Dienste nutzen.
 | `dig`        | DNS-Abfragen (Detail)                | `dig A example.com`        |
 | `tcpdump`    | Netzwerkverkehr mitschneiden         | `tcpdump -i eth0`          |
 | `wireshark`  | Netzwerkverkehr grafisch analysieren | GUI-Tool                   |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 ## 6. Netzwerkscanning
@@ -76,4 +76,3 @@ Ziel: Ressourcen teilen, Kommunikation ermöglichen, Dienste nutzen.
 | Service Detection | `nmap -sV`, `enum4linux` | Dienstversion + Banner    |
 | Packet Sniffing   | `tcpdump`, `wireshark`   | Kommunikation analysieren |
 | DNS-Recon         | `dig`, `dnsrecon`        | Zonen, Subdomains         |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

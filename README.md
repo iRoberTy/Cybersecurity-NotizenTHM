@@ -18,15 +18,18 @@ Einsteigerfreundliche Einführung in Netzwerke, Betriebssysteme und Web-Technolo
 |----------------------|----------------------------------------------------------------------------------|
 | Netzwerk-Grundlagen  | [`netzwerk-zusammenfassung.md`](./zusammenfassungen/netzwerk-zusammenfassung.md) |
 | Ports & Protokolle   | [`ports-und-protokolle.md`](./tabellen/ports-und-protokolle.md)                  |
-| Windows&Linux Cheats | [`Windows&Linux-cheatsheet.md`](./zusammenfassungen/windows&linux-cheatsheet.md) |
-| Grundlagen & Konzepte| [`foundations.md`](./zusammenfassungen/foundations.md)                           |
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| Windows&Linux Cheats | [`Windows&Linux-cheatsheet.md`](./tabellen/windows&linux-cheatsheet.md)          |
+| Grundlagen & Konzepte| [`foundations.md`](./zusammenfassungen/Foundations.md)                           |
+
  
 ### 🧠 Cybersecurity 101 (Abgeschlossen ✅)
 Erste Security-Konzepte mit Fokus auf Authentifizierung, Verschlüsselung und Angriffsszenarien.
-
-| Traffic Sniff | [`tcpdump-cheatsheet.md`](./zusammenfassungen/tcpdump-cheatsheet.md)             |
-| Hashing & Cracking | [`hashcat-john-cheatsheet.md`](./zusammenfassungen/hashcat-john-cheatsheet.md)   |
+ __________________________________________________________________________________________________________________________
+|                       Nmap                         | [`nmap-cheatsheet.md`   ](./tabellen/nmap-cheatsheet.md)            |
+|                   Traffic Sniff                    | [`tcpdump-cheatsheet.md`](./zusammenfassungen/tcpdump-cheatsheet.md)|
+| Hashcat, John the Ripper, Gobuster, Hydra, Crunch  | [`cracking&wordlists.md`](./zusammenfassungen/cracking&wordlists.md)|
+|                    Metasploit                      | [`metasploit.md`        ](./zusammenfassungen/metasploit.md)        |
+|       CLI, PowerShell, Linux Shells, Shells..      | [`shells-cheatsheet.md`](./zusammenfassungen/shells-cheatsheet.md)  |
 
 
 ## 👨‍💻 Autor

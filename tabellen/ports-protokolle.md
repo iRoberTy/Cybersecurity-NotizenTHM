@@ -28,7 +28,7 @@
 | 5986	|WinRM_443|	  Remote Mgmt (TLS)	    | TCP | Encrypted PowerShell Remote  |
 | 8080	|HTTP-Alt |  Alternative HTTP-Port	| TCP |       Oft für Web-UIs        |
 | 8443	|HTTPS-Alt|	  Sicherer Webzugriff	| TCP |    Admin-Panels, Tools       | 
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 ## 🔐 Häufige Pentesting-Ziele

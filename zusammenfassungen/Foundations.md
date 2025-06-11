@@ -86,11 +86,11 @@ Der **Gegenpol** zur CIA-Triad – definiert sicherheitsrelevante **Verletzungen
 
 ## 6. Begriffsdifferenzierung: Vulnerability, Threat, Risk
 
-| Begriff        | Definition                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Vulnerability** | Schwachstelle im System (z. B. ungepatchter Server, schwaches Passwort)     |
-| **Threat**        | Potenzieller Angreifer / Angriff, der eine Schwachstelle ausnutzen kann   |
-| **Risk**          | Wahrscheinlichkeit + Schadenshöhe, dass eine Schwachstelle ausgenutzt wird |
+| Begriff         | Definition                                                                |
+|-----------------|---------------------------------------------------------------------------|
+|**Vulnerability**| Schwachstelle im System (z. B. ungepatchter Server, schwaches Passwort)   |
+|   **Threat**    | Potenzieller Angreifer / Angriff, der eine Schwachstelle ausnutzen kann   |
+|    **Risk**     | Wahrscheinlichkeit + Schadenshöhe, dass eine Schwachstelle ausgenutzt wird|
 
 ### 🔁 Beispiel:
 - **Vulnerability:** veraltete Websoftware  
