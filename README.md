@@ -25,6 +25,7 @@ Einsteigerfreundliche Einführung in Netzwerke, Betriebssysteme und Web-Technolo
 ### 🧠 Cybersecurity 101 (Abgeschlossen ✅)
 Erste Security-Konzepte mit Fokus auf Authentifizierung, Verschlüsselung und Angriffsszenarien.
  __________________________________________________________________________________________________________________________
+| Thema                                              | Datei                                                               |
 |----------------------------------------------------|---------------------------------------------------------------------|
 |                       Nmap                         | [`nmap-cheatsheet.md`   ](./tabellen/nmap-cheatsheet.md)            |
 |                   Traffic Sniff                    | [`tcpdump-cheatsheet.md`](./zusammenfassungen/tcpdump-cheatsheet.md)|
