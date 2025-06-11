@@ -30,7 +30,8 @@ Erste Security-Konzepte mit Fokus auf Authentifizierung, Verschlüsselung und An
 | Hashcat, John the Ripper, Gobuster, Hydra, Crunch  | [`cracking&wordlists.md`](./zusammenfassungen/cracking&wordlists.md)|
 |                    Metasploit                      | [`metasploit.md`        ](./zusammenfassungen/metasploit.md)        |
 |       CLI, PowerShell, Linux Shells, Shells..      | [`shells-cheatsheet.md`](./zusammenfassungen/shells-cheatsheet.md)  |
-
+|                   SQL, SQLmap..                    | [`sql-cheatsheet.md`](./zusammenfassungen/sql-cheatsheet.md)        |
+|                    Injections                      | [`injections-cheatsheet.md`](./tabellen/injections-cheatsheet.md)   |
 
 ## 👨‍💻 Autor
 
