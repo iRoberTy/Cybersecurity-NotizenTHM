@@ -1,14 +1,13 @@
-#TryHackMe Notizen
-=======
-# 🌐 Netzwerk-Grundlagen für Cybersecurity
-
-Willkommen in meinem strukturierten Lern-Repository zu Netzwerktechnik, Protokollen und Pentesting-Vorbereitung.
-
-Dieses Repo enthält:
+🧰 Pentester Knowledge Repo
+Dieses Repository enthält:
 
 - ✍️ Zusammenfassungen zu zentralen Netzwerkthemen
-- 📊 Tabellen zu Ports und Protokollen
-- 🔐 Fokus auf praktische Relevanz für Pentesting
+
+- 📊 Cheatsheets zu Tools & Techniken (Nmap, Metasploit, Shells, etc.)
+
+- 🔐 Fokus: praktische Relevanz für Pentesting & Zertifikatsvorbereitung (z. B. CRTA, OSCP)
+
+- 🎯 Orientierung: TryHackMe Path „Pre-Security → Cybersecurity → Pentester“
 
 ---
 ### 🔰 Pre-Security (Abgeschlossen ✅)
@@ -34,6 +33,21 @@ Erste Security-Konzepte mit Fokus auf Authentifizierung, Verschlüsselung und An
 |       CLI, PowerShell, Linux Shells, Shells..      | [`shells-cheatsheet.md`](./zusammenfassungen/shells-cheatsheet.md)  |
 |                   SQL, SQLmap..                    | [`sql-cheatsheet.md`](./zusammenfassungen/sql-cheatsheet.md)        |
 |                    Injections                      | [`injections-cheatsheet.md`](./tabellen/injections-cheatsheet.md)   |
+
+### 🕸️ Web Hacking (TryHackMe: Pentester Path)
+Fokus: Recon → Access Control → Exploits in Webanwendungen
+ _______________________________________________________________________________________________________________
+| Thema                      | Datei                                                                            |
+|----------------------------|----------------------------------------------------------------------------------|
+| Web Hacking Fundamentals   | [`web_hacking_fundamentals.md`](./zusammenfassungen/web_hacking_fundamentals.md) |
+| \[Folgt] XSS, SSTI, CSRF   | *coming soon*                    | DOM-Based, Reflected, Stored, Template I.     |
+| \[Folgt] File Upload & RCE | *coming soon*                    | Extension Bypass, Traversal, Execution Upload |
+
+
+## Empfehlungen
+Verwende Burp Suite, ffuf, wfuzz, SecLists, PayloadAllTheThings ergänzend zu jedem Modul.
+Für systematische Hands-on-Labs: Nutze TryHackMe, HackTheBox, PortSwigger Labs.
+
 
 ## 👨‍💻 Autor
 
